@@ -1,3 +1,4 @@
+![logo](https://github.com/dt019107/dt019107/blob/main/LinkedIn%20cover%20-%208%402x.png)
 <h1 align="center">Hi 👋, I'm Deepak Tiwari</h1>
 <h3 align="center">A passionate UI/UX Designer And Intern @Zidio Development</h3>
 
