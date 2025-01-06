@@ -1,31 +1,28 @@
 ![logo](https://github.com/dt019107/dt019107/blob/main/LinkedIn%20cover%20-%208%402x.png)
-<h1 align="center">Hi 👋, I'm Deepak Tiwari</h1>
-<h3 align="center">A passionate UI/UX Designer</h3>
+# 💫 About Me:
+About Me:-<br><br>Hello, I am Deepak Tiwari<br><br>Ex-UI/UX Designer Intern @Zidio Development | Expertise in Figma,<br>Wireframing, Framer,  Web Flow & Prototyping | Passionate About User-Centered Design<br>& User Research  | UX Research | Agile Methedology.<br><br>🌟 Key Strengths:<br><br>🌐 Mastery in design thinking and visual storytelling to enhance user experience.<br>🖼️ Strong expertise in wireframing, prototyping, and visual communication.<br>🔍 Skilled in user research to understand and address target audience needs.<br>🛠️ A problem-solving mindset to tackle challenges with innovative solutions.<br>💼 UI/UX Design Services.<br><br>AREAS OF EXPERTISE <br>‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾<br>► Responsive Design <br>► UX Research<br>► UI Development<br>► Mobile App & Web App Design<br>► UX/UI Enhancement<br>► Prototyping & Wireframing<br><br><br> CORE SKILLS<br>‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾<br>► Design & Prototype: Figma,Framer,Web Flow, Canva.<br>► User Research & Strategy: User Personas, Usability Testing, A/B Testing, Surveys, Interviews.<br>► Creative Problem Solving: Designing innovative solutions that meet user needs and business goals.<br>► Advanced UI/UX Design: Expertise in creating intuitive interfaces and seamless user experiences.<br>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dt019107&label=Profile%20views&color=0e75b6&style=flat" alt="dt019107" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dt019107" alt="dt019107" /></a> </p>
+## 🌐 Socials:
+[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/https://www.behance.net/DeepakTiwariUI-UX) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/deep10788/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/deepak-tiwari2205/) 
 
-- 🌱 I’m currently learning **UX Case study And User research**
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) ![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=dt019107&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=dt019107&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=dt019107&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-- 👨‍💻 All of my projects are available at Behance [https://www.behance.net/DeepakTiwariUI-UX](https://www.behance.net/DeepakTiwariUI-UX)
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=dt019107&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-- 📝 I regularly write articles on Linkedin [https://www.linkedin.com/in/deepak-tiwari-4099291b6/recent-activity/all/](https://www.linkedin.com/in/deepak-tiwari-4099291b6/recent-activity/all/)
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-- 💬 Ask me about **Figma, UX Design, Adobe Photoshop**
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=dt019107&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-- 📫 How to reach me **dt019107@gmail.com & 8368438692**
+---
+[![](https://visitcount.itsvg.in/api?id=dt019107&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/deepak-tiwari2205/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/deepak-tiwari2205/" height="30" width="40" /></a>
-<a href="https://www.behance.net/https://www.behance.net/deepaktiwariui-ux" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="https://www.behance.net/deepaktiwariui-ux" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://middlemanapp.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/leungwensen/svg-icon/b84b3f3a3da329b7c1d02346865f8e98beb05413/dist/svg/logos/middleman.svg" alt="middleman" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dt019107&show_icons=true&locale=en&layout=compact" alt="dt019107" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dt019107&show_icons=true&locale=en" alt="dt019107" /></p>
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
